@@ -1,0 +1,13 @@
+﻿.classpath
+.project
+.settings
+.stackdump
+target/src/test/generated-sources
+/target/
+generated*
+bin
+target/src/main/xtend-gen
+/src/main/xtend-gen
+src/main/xtend-gen
+xtend-gen
+
